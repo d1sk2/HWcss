@@ -1,0 +1,15 @@
+.text--bold {
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.child {
+    font-weight: 900;
+    font-size: 30px;
+}
+
+a[href="#blog"] {
+    font-weight: 900;
+    font-size: 30px;
+    color: chartreuse;
+}
